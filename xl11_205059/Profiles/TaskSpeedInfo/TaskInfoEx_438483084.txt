@@ -1,0 +1,1 @@
+{"taskId":438483084,"aveSpeed":5937,"maxSpeed":0,"progress":100,"speedInfoMap":{"100":{"progress":100,"downloadSpeed":0,"addSpeed":0}}}

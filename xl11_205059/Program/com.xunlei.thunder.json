@@ -1,0 +1,11 @@
+{
+  "name": "com.xunlei.thunder",
+  "description": "Chrome Native Messaging API Thunder Host",
+  "path": "xl_ext_chrome.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ncennffkjdiamlpmcbajkmaiiiddgioo/",
+    "chrome-extension://mbbgjcjagcaldbmlmepgbdhkphmmgpmm/",
+    "chrome-extension://popomkonnjgcdagdhgcpcekbdeoibglc/"
+  ]
+}

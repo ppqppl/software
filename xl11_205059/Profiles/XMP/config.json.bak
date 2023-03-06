@@ -1,0 +1,16 @@
+{
+  "HotKeyConfig": {
+    "Play": " ",
+    "Full": "ctrl+enter",
+    "Stop": "ctrl+s",
+    "Quit": "ctrl+w",
+    "Back": "arrowleft",
+    "Fast": "arrowright",
+    "AddVolume": "arrowup",
+    "ReduceVolume": "arrowdown"
+  },
+  "APlayerConfig": {
+    "PlaySpeed": 100,
+    "SpeedUpEnable": 1
+  }
+}

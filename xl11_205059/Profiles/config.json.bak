@@ -1,0 +1,136 @@
+{
+  "Consumption": {
+    "ShowMainWindowTime": 1678030648772,
+    "HideMainWindowTime": 1678030652598
+  },
+  "TaskDefaultSettings": {
+    "LogicChoosed": true,
+    "CloudChoosed": true,
+    "InitPath": "F:\\迅雷下载",
+    "DefaultPath": "F:\\迅雷下载",
+    "AwayModeEnabled": false,
+    "MaxResourceLimit": true,
+    "MaxResourceCount": "10000"
+  },
+  "PathAndCategory": {
+    "LastUsedPath": "D:\\001",
+    "historyDownloadPaths": [
+      "F:\\迅雷下载",
+      "G:\\迅雷下载",
+      "H:\\迅雷下载",
+      "D:\\迅雷下载",
+      "K:\\迅雷下载",
+      "K:\\迅雷下载\\新建文件夹",
+      "D:\\001"
+    ]
+  },
+  "BossKey": {
+    "BossKeyState": false
+  },
+  "ConfigNormalSession": {
+    "ConfigNormal_AutoRun": 0
+  },
+  "GenericSettings": {
+    "CheckCpu": 1,
+    "AnimationLevel": "1"
+  },
+  "FlowMonitor": {
+    "DownloadSize": 0,
+    "UploadSize": 0,
+    "Date": "2023.3.5"
+  },
+  "Motitor": {
+    "MotitorIE浏览器": 1,
+    "MotitorAll": true
+  },
+  "ConfigNet": {
+    "ConfigNet_Type": "1",
+    "ConfigNet_Custom_DownloadSpeedChk": false,
+    "ConfigNet_Custom_UploadSpeedChk": false,
+    "ConfigNet_Custom_MaxDownloadSpeedTmp": 2382,
+    "ConfigNet_Custom_MaxUploadSpeedTmp": 2048,
+    "ConfigNet_Custom_MaxDownloadSpeed": -1,
+    "ConfigNet_Custom_MaxUploadSpeed": -1,
+    "ConfigNet_Custom_Time_Switch": false
+  },
+  "VipDownload": {
+    "TpPeerId": "00E04C680134LGBU",
+    "ResetedSimCloudDefault": true,
+    "ShowTeamEnteranceCount": 2,
+    "ShowTeamEnteranceLastDate": "Sun Mar 05 2023",
+    "TeamEnteranceSwitch": true,
+    "PlayGameDate": "Sun Mar 05 2023",
+    "PlayGameXgtCount": 6,
+    "BaoTuan_FirstShow": false,
+    "LastTryEnterTime": 1678026373,
+    "BaoTuan_HaveShowNoviceGuid": true
+  },
+  "ThunderPanPlugin": {
+    "MaxDownloadTaskNum": 3,
+    "defaultDownloadPath": "D:\\迅雷下载",
+    "savePaths": [
+      "我的云盘"
+    ],
+    "defaultSavePath": "我的云盘",
+    "downloadPaths": [
+      "F:\\迅雷下载",
+      "D:\\迅雷下载"
+    ]
+  },
+  "ConfigSuspensionXdas": {
+    "SuspensionX": 1393,
+    "SuspensionY": 389
+  },
+  "SearchBar": {
+    "EnableAssociativeWord": 1,
+    "SearchSuffix": "mp4,高清,蓝光,720p,4k,avi",
+    "FavoritesTip": false
+  },
+  "GuideTips": {
+    "browserPlugin": "{\"showTipTimes\":2,\"lastShowTipTime\":1637073709178}"
+  },
+  "PersonalInfo": {
+    "PeeridMatchNum": 3
+  },
+  "downloadDetectTools": {
+    "autoDetectDate": "2023-03-05"
+  },
+  "UserCommunitySet": {
+    "radio_id_": true
+  },
+  "TaskUpgrading": {
+    "UpgradedUsers": "836705682, 549558497, 813631763, "
+  },
+  "sign": {
+    "getQuestionTime": "202332"
+  },
+  "Monitor": {
+    "WatchTraditionLink": true,
+    "ConfigWatch_Bt": true,
+    "ExtendNames": ".asf;.avi;.exe;.iso;.mp3;.mpeg;.mpg;.mpga;.ra;.rar;.rm;.rmvb;.tar;.wma;.wmp;.wmv;.mov;.zip;.3gp;.chm;.mdf;.torrent;.jar;.msi;.arj;.bin;.dll;.psd;.hqx;.sit;.lzh;.gz;.tgz;.xlsx;.xls;.doc;.docx;.ppt;.pptx;.flv;.swf;.mkv;.tp;.ts;.flac;.ape;.wav;.aac;.txt;.dat;.7z;.ttf;.bat;.xv;.xvx;.pdf;.mp4;.apk;.ipa;.epub;.mobi;.deb;.sisx;.cab;.pxl;.xlb;.dmg;.msu;.bz2;"
+  },
+  "EMuleGenericSettings": {
+    "EMuleWatchLink": true
+  },
+  "MagnetGenericSettings": {
+    "MagnetWatchLink": true
+  },
+  "ShouleiDownload": {
+    "isFirstShowScanCode": false,
+    "AutoShowFileTransferToolTip": 0
+  },
+  "ConfigNoLimitDownload": {
+    "TaskCountAutoAdd": false
+  },
+  "DiskCache": {
+    "DiskCacheSelect": "512"
+  },
+  "CompletedTaskPlay": {
+    "LanuchMediaPlayer": "2"
+  },
+  "ConfigMsg": {
+    "ConfigMsg_DeleteFile": true,
+    "ConfigMsg_Finish": true,
+    "ConfigMsg_PlayWaveWhileFinish": false
+  }
+}

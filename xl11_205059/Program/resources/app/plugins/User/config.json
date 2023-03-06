@@ -1,0 +1,9 @@
+{
+  "name": "User",
+  "version": "0.2.20",
+  "author": "Xunlei",
+  "license": "",
+  "main": "0.2.20/index.js",
+  "clear": true,
+  "monitor": true
+}
